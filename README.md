@@ -1,6 +1,6 @@
-# DSA210 Industrial Fire & Explosion Incident Analysis
+ Industrial Fire & Explosion Incident Analysis
 
-This repository contains a reproducible DSA 210 project analyzing industrial fire and explosion incidents reported by TMMOB Kimya Mühendisleri Odası İstanbul Şubesi.
+This repository contains a project analyzing industrial fire and explosion incidents reported by TMMOB Kimya Mühendisleri Odası İstanbul Şubesi.
 
 ## Research Question
 
